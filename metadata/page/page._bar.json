@@ -1,0 +1,12 @@
+{
+  "_id": "page._bar",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page._bar--hidden.auto_name__1",
+      "_type": "hidden",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "/bar"
+}

@@ -1,0 +1,5 @@
+{
+  "_id": "page.foo",
+  "_type": "page.confirmation",
+  "url": "foo"
+}
